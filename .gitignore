@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 输出目录
+output/
+
+# 数据集（可选，如果数据文件较大，建议不提交）
+data/
+*.txt
